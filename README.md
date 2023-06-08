@@ -2,7 +2,7 @@
 Set of my solutions (4 python programs, 1 C++ program) to Coding League organized by Centrum Mistrzostwa Informatycznego in 2022.
 I had 2 weeks to solve each task. The tasks were progressively harder.
 I'm planning to refactor the code in near future, because some of variable names are written in Polish and some are in English.
-When I was creating the code I was only trying to make it work as good and as quick as possible. The code itself is chaotic and hard to read but it works.
+When I was creating the code I was only trying to make it work as good and quick as possible. 
 
 Solutions were judged by their time complexity.
 
